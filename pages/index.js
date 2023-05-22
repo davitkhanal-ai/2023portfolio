@@ -75,7 +75,7 @@
           </div>
           <div className="lg:flex gap-12">
 
-            <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
+            {/* <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
               <Image src={design} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                Intern
@@ -86,7 +86,7 @@
               <h4 className="py-4 text-teal-600">2021</h4>
               <p className="text-gray-800 py-1">Data collection and database management for nepali sports personnel and officials</p>
               
-            </div>
+            </div> */}
 
           </div>
         </section>
