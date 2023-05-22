@@ -64,7 +64,7 @@
           </section>
 
           {/* second page */}
-          {/* career */}
+          {/* career 
           <section>
           <div>
             <h3 className="text-3xl py-1 ">Career</h3>
@@ -73,7 +73,7 @@
               <span className="text-teal-500"> IT industry. </span>
             </p>
           </div>
-          <div className="lg:flex gap-12">
+          <div className="lg:flex gap-12"> */}
 
             {/* <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
               <Image src={design} width={100} height={100} />
