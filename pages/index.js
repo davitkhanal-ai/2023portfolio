@@ -45,21 +45,21 @@
             </nav> */}
 
         {/* display page */}
-          <div className='text-center p-5 py-2'>
+          {/* <div className='text-center p-5 py-2'>
             <h2 className='text-4xl py-2 text-teal-600 font-medium dark:text-teal-400'>Davit Khanal</h2>
             <h3 className='text-2xl py-2 dark:text-white'>Gamer | Support Engineer</h3>
             <p className='text-md py-5 leading-4 text-gray-700 dark:text-white'>Select * from gamer where name='davit';</p>
-          </div>
+          </div> */}
 
           {/* button */}
-          <div className='text-3xl flex justify-center gap-16 py-3 text-gray-600'>
+          {/* <div className='text-3xl flex justify-center gap-16 py-3 text-gray-600'>
             <AiFillLinkedin className='text-blue-600 dark:text-blue'/>
             <AiFillGithub className='text-gray-900 dark:text-white'/>
-          </div>
+          </div> */}
 
             {/* image */}
           <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 overflow-hidden'>
-          <Image src={deved} fill objectFit="cover"/>
+          <Image src={davit} fill objectFit="cover"/>
           </div>
           </section>
 
