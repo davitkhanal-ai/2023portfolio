@@ -52,10 +52,10 @@
           </div> */}
 
           {/* button */}
-          {/* <div className='text-3xl flex justify-center gap-16 py-3 text-gray-600'>
+          {<div className='text-3xl flex justify-center gap-16 py-3 text-gray-600'>
             <AiFillLinkedin className='text-blue-600 dark:text-blue'/>
             <AiFillGithub className='text-gray-900 dark:text-white'/>
-          </div> */}
+          </div> }
 
             {/* image */}
           <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 overflow-hidden'>
